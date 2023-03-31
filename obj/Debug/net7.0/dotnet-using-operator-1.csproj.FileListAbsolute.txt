@@ -1,0 +1,15 @@
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\bin\Debug\net7.0\dotnet-using-operator-1.exe
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\bin\Debug\net7.0\dotnet-using-operator-1.deps.json
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\bin\Debug\net7.0\dotnet-using-operator-1.runtimeconfig.json
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\bin\Debug\net7.0\dotnet-using-operator-1.dll
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\bin\Debug\net7.0\dotnet-using-operator-1.pdb
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\obj\Debug\net7.0\dotnet-using-operator-1.csproj.AssemblyReference.cache
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\obj\Debug\net7.0\dotnet-using-operator-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\obj\Debug\net7.0\dotnet-using-operator-1.AssemblyInfoInputs.cache
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\obj\Debug\net7.0\dotnet-using-operator-1.AssemblyInfo.cs
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\obj\Debug\net7.0\dotnet-using-operator-1.csproj.CoreCompileInputs.cache
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\obj\Debug\net7.0\dotnet-using-operator-1.dll
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\obj\Debug\net7.0\refint\dotnet-using-operator-1.dll
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\obj\Debug\net7.0\dotnet-using-operator-1.pdb
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\obj\Debug\net7.0\dotnet-using-operator-1.genruntimeconfig.cache
+C:\Users\nghia\Source\Repos\nghiatrantrong188\dotnet-using-operator-1\obj\Debug\net7.0\ref\dotnet-using-operator-1.dll
